@@ -1,0 +1,1 @@
+<h1>home</h1><?php /**PATH /var/www/html/sites/laravel/aulas/hdcevents/resources/views/home.blade.php ENDPATH**/ ?>
